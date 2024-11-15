@@ -46,6 +46,7 @@
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vishwas-Chaudhary&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vishwas-Chaudhary&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwas-Chaudhary&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
