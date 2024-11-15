@@ -38,8 +38,6 @@
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwas-chaudhary&show_icons=true&locale=en&layout=compact" alt="vishwas-chaudhary" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwas-chaudhary&show_icons=true&locale=en" alt="vishwas-chaudhary" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwas-chaudhary&" alt="vishwas-chaudhary" /></p>
+![](https://github-readme-stats.vercel.app/api?username=Vishwas-Chaudhary&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vishwas-Chaudhary&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwas-Chaudhary&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
