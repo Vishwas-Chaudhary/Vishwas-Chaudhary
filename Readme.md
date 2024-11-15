@@ -1,6 +1,5 @@
 <div style="display: flex; justify-content: center; gap: 100%; align-items: center;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWtxaTFnNG12dmswNndkcHE0ejZwN2xpNDV2cTcxd2c2cm9lMXlscSZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/qfLUF9PuBV9SRZKJcv/giphy.webp" style="width: 40%;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWtxaTFnNG12dmswNndkcHE0ejZwN2xpNDV2cTcxd2c2cm9lMXlscSZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/qfLUF9PuBV9SRZKJcv/giphy.webp" style="width: 40%;">
+   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWtxaTFnNG12dmswNndkcHE0ejZwN2xpNDV2cTcxd2c2cm9lMXlscSZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/qfLUF9PuBV9SRZKJcv/giphy.webp" style="width: 100%;">
 </div>
 
 <h1 align="center">Hi 👋, I'm Vishwas Chaudhary</h1>
