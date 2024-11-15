@@ -14,6 +14,12 @@
 - 📫 How to reach me **vishwaschaudhary.email@example.com**
 
 - ⚡ Fun fact **I enjoy solving complex problems and learning new technologies**
+ 
+ <p>
+  <a href="https://vaunt.dev">
+    <img src="https://api.vaunt.dev/v1/github/entities/Vishwas-Chaudhary/contributions?format=svg" width="350" title="Includes public contributions"/>
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
