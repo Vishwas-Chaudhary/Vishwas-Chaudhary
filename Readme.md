@@ -11,6 +11,8 @@
 - I’m currently learning **Java, Python, and Javascript**
 
 - All of my projects are available at [My GitHub Repositories](https://github.com/Vishwas-Chaudhary/PROJECTS)
+  
+- All of my cloud certifications are available at [**My Credly Profile**](https://www.credly.com/users/vishwas-chaudhary.cf1d0736).
 
 - How to reach me **vishwaschaudhary941@gmail.com**
 
@@ -31,9 +33,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishwas-chaudhary" height="30" width="40" />
   </a>
 </p>
-
-All of my cloud certifications are available at [**My Credly Profile**](https://www.credly.com/users/vishwas-chaudhary.cf1d0736).
-
 
 
 ## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
