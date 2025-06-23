@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center; gap: 100%; align-items: center;">
-   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWtxaTFnNG12dmswNndkcHE0ejZwN2xpNDV2cTcxd2c2cm9lMXlscSZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/qfLUF9PuBV9SRZKJcv/giphy.webp" style="width: 100%;">
+   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Z2cTNicmdhbHJvanM3aDUya2VnYzBtNWp6eW4zcHFnaWJtMTJ3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" style="width: 100%;">
 </div>
 
 <h1 align="center">Hi 👋, I'm Vishwas Chaudhary</h1>
