@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi, I'm Vishwas Chaudhary</h1>
 <h3 align="center">A passionate developer exploring the world of technology</h3>
+<h3 align="center"> "Just trying to do better each day" </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwas-chaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="vishwas-chaudhary" /> </p>
 
