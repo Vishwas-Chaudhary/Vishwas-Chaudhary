@@ -1,6 +1,6 @@
-<div style="display: flex; justify-content: center; gap: 100%; align-items: center;">
-   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Z2cTNicmdhbHJvanM3aDUya2VnYzBtNWp6eW4zcHFnaWJtMTJ3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" style="width: 100%;">
-</div>
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Z2cTNicmdhbHJvanM3aDUya2VnYzBtNWp6eW4zcHFnaWJtMTJ3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Vishwas Chaudhary</h1>
 <h3 align="center">A passionate developer exploring the world of technology</h3>
